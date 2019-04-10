@@ -1,10 +1,14 @@
+* Prerequisites:
+  NodeJS 10.x
 
-Clone: ``$ git clone https://github.com/kirkhess/slcsp.git``
+* Clone the repository 
+``$ git clone https://github.com/kirkhess/slcsp.git``
 
-       ``$ cd slcsp``
+* Install: 
+``npm install``
 
-Install: ``npm install``
+* Run: 
+``npm start``
 
-Run: ``npm start``
-
-Test: ``npm test``
+* Test: 
+``npm test``
